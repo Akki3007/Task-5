@@ -80,7 +80,7 @@ Requirements:
 
 2. Destructure maths and science.
 3. Print:
-Rahul scored 90 in maths and 85 in science
+Akhil scored 90 in maths and 85 in science
 
 Ans:
 let student = {
